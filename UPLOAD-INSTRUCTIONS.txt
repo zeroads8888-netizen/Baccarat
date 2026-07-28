@@ -1,0 +1,14 @@
+GITHUB PAGES UPLOAD
+
+1. Delete the old repository files.
+2. Upload every file INSIDE this folder to the repository root.
+3. Do not upload the ZIP itself.
+4. In Settings > Pages, publish from the main branch root.
+
+Required root files:
+- index.html
+- .nojekyll
+- baccarat-hero.png
+- roulette-loop.mp4
+- hacker-logo.png
+- testimonial images
